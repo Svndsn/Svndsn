@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Svndsn
 - 🌱 I’m currently studying Engineering in Robotics
+- ✨ The pins are projects from university 
 - 📫 You can reach me here: simon.egeris.svendsen@gmail.com
 
 <!---
